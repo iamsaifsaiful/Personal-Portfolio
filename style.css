@@ -1,0 +1,135 @@
+body{
+    font-family: 'Ibarra Real Nova', serif;
+    margin: 0px 0px 0px 0px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.greetings{
+    color:tomato; font-size: 100px;
+}
+.main-text{
+    font-size: 80px;
+}
+.sub-text{
+    color: tomato;
+}
+.container-flex{
+    display: flex;
+}
+.heading{
+    width: 45%; 
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: 12%;
+}
+.image{
+    width: 45%; 
+    margin-left: 2%;
+    margin-right: 3%;
+    margin-top: 10%;
+}
+.t-me{ 
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+}
+.saif{
+    width: 100%;
+    border-radius: 20px;
+}
+.entreprenur{
+    margin-top: 200px;
+    width: 45%;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+#image-2{
+    width: 100%;
+    border-radius: 20px;
+}
+.big-dream{
+  
+    margin-top: 120px;
+    width: 45%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+.big-dream-text{
+    font-size: 70px;
+    color: tomato;
+    text-align: right;
+}
+.big-dream-sub-text{
+    text-align: right;
+}
+.skills{
+    background-color: rgb(247, 245, 243);
+    width: 45%;
+    margin: 2%;
+    padding: 20px;
+    height: 450px;
+    border-top: 10px solid tomato;
+    border-radius: 10px;
+    box-shadow: 10px 10px 25px grey;
+}
+.skills-flex{
+    margin-top: 200px;
+}
+.ideas-text{
+    font-size: 70px;
+    color: tomato;
+}
+.digital{
+    background-color: rgb(247, 245, 243);
+    width: 45%;
+    padding: 20px;
+    height: 450px;
+    border-top: 10px solid tomato;
+    border-radius: 10px;
+    margin-right: 4%;
+    margin-top: 1%;
+    margin-bottom: 100px;
+    margin-left: 26%;
+    box-shadow: 10px 10px 25px grey;
+}
+.web{
+    background-color: rgb(247, 245, 243);
+    width: 45%;
+    padding: 20px;
+    height: 450px;
+    border-top: 10px solid tomato;
+    border-radius: 10px;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 25px grey;
+}
+.skills-text{
+    font-size: 40px;
+}
+.skills-icon{
+    width: 200px;
+}
+.skills-icon-1{
+    width: 210px;
+}
+.skills-icon-3{
+    width: 190px;
+}
+.footer{
+display: flex;
+    margin-bottom: 20px;
+    margin-left: 40%;
+}
+.email-icon{
+    width: 50px;
+    padding-right: 4px;
+}
+.email-name{
+    text-align: center;
+    font-size: 30px;
+    color: tomato;
+    margin-left: 1%;
+}
